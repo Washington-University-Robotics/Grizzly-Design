@@ -5,7 +5,7 @@
 "Chassis_Width" = 380mm
 "Chassis_Thickness" = 130mm
 "Chassis_Mod_Mount_Length" = 255mm
-"Chassis_Extrusion_Profile" = 25mm
+"Chassis_Extrusion_Profile" = 30mm
 "Chassis_Wheelbase"= 28in
 "Chassis_WheelDiam"= 171mm
 "Chassis_ArmDiamWidth"= 0.75in
